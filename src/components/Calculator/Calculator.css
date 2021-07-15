@@ -1,0 +1,22 @@
+.calculator {
+  width: 500px;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000,
+    5px 5px 15px 5px rgba(0, 0, 0, 0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+}
+
+.key-r {
+  align-self: flex-end;
+  width: 20%;
+  height: 50px;
+  background-color: rgb(179, 179, 179);
+  margin-top: 20px;
+  margin-right: 10px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,9 @@
+.key {
+  width: 20%;
+  height: 50px;
+  background-color: rgb(179, 179, 179);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
